@@ -9,6 +9,5 @@ public class Cay1 {
         System.out.println("deneme10");
 
 
-
     }
 }
